@@ -21,7 +21,7 @@ companions = [
 # [[team member 1, team member 2, etc], [team member 1, team member 2, etc], etc]]
 teams = []
 
-runTests = True
+runTests = False
 
 def main(args):
 	if len(args) == 0:
