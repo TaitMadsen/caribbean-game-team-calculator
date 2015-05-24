@@ -3,6 +3,7 @@ For the game Caribbean! by Snowbird, this tool computes the teams of companions 
 <ul>
 <li>This tool is based on data gathered from Caribbean! 1.051.</li>
 <li>This tool requires Python 3.</li>
+<li>This tool is in conjuction with <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=447086116">this steam guide</a>
 </ul>
 
 Run this tool with no arguments to see usage instructions and compute all teams that get along:
